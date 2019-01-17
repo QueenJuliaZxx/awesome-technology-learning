@@ -72,11 +72,17 @@
 
   > 老齐的技术资料：这里汇集了我个人撰写以及网上搜集的有关技术文章，原本放到自己的网站和有关博客上，但是由于种种原因，不得不放到这里，感觉更方便。
 
-### 书籍荐
+### 书籍
 
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md)
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md) 
 
   > Freely available programming books
+
+- [apachecn/thinking-in-java-zh](https://github.com/apachecn/thinking-in-java-zh)
+
+  > Java 编程思想  https://www.gitbook.com/book/wizardforcel/thinking-in-java/details
+
+  
 
 
 
