@@ -18,13 +18,17 @@
 
 ### 框架系列
 
+[小白科普：Java EE vs J2EE vs Jakarta EE](https://mp.weixin.qq.com/s/kshjUv3kKfiArIn8MQO3rQ)
+
+
+
 
 
 ### 分布式/高并发/高性能/多线程等
 
 [分布式、高并发、多线程的区别](./Java/分布式、高并发、多线程的区别.md)
 
-
+[漫谈何时从单体架构迁移到微服务？](https://mp.weixin.qq.com/s/DuvQ5uWNnBkupXP3cxJfgQ)
 
 
 
