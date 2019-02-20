@@ -2,7 +2,7 @@
 
 # 技术学习之路
 
-:expressionless: *程序猿/媛是怎样炼成的？*
+:expressionless: *程序猿是怎样炼成的？*
 
 |       :coffee:        |            :game_die:             |     :floppy_disk:     | :globe_with_meridians: |      :curry:       | :computer: |     :art:     |     :iphone:     | :spider_web: |      :cloud:      |    :bulb:     | :building_construction: | :wrench: | :herb: | :slot_machine: | :yellow_heart: |
 | :-------------------: | :-------------------------------: | :---------------: | :-----------: | :-------------------: | :--------------------: | :-----------: | :---------------: | :-----------: | :---------------------: | ----------------------- | :---------------------: | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
@@ -103,13 +103,9 @@ GitBook：[《图解HTTP》读书笔记](https://ttop5.gitbooks.io/illustration-
 
 ## 后记
 
-###优质博主/客
-
-*（1）博主*
+### 优质博主/客
 
 - [HollisChuang's Blog-Java干货集散地](http://www.hollischuang.com/)
-
-*（2）博客*
 
 - 
 
