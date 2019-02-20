@@ -1,5 +1,3 @@
-<a name="top"></a>
-
 # 技术学习之路
 
 :expressionless: *程序猿是怎样炼成的？*
@@ -174,6 +172,7 @@ GitBook：[《图解HTTP》读书笔记](https://ttop5.gitbooks.io/illustration-
   > Java 编程思想  https://www.gitbook.com/book/wizardforcel/thinking-in-java/details
 
 <div align="right">
-    <a href="#To-Full-Stack-Developer">回到顶部</a>
+    <a href="#技术学习之路">回到顶部</a>
 </div>
+
 
