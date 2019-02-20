@@ -1,53 +1,115 @@
-# To-Full-Stack-Developer
+# 技术学习之路
 
-## 一、前端
-
-
-
-
-
-## 二、后端
-
-### Java基础
+|       :coffee:        |            :game_die:             |     :floppy_disk:     | :globe_with_meridians: |      :curry:       | :computer: |     :art:     |     :iphone:     | :spider_web: |      :cloud:      |    :bulb:     | :building_construction: | :wrench: | :herb: | :slot_machine: | :yellow_heart: |
+| :-------------------: | :-------------------------------: | :---------------: | :-----------: | :-------------------: | :--------------------: | :-----------: | :---------------: | :-----------: | :---------------------: | ----------------------- | :---------------------: | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
+| [编程语言](#1-编程语言) | [算法与数据结构](#2-算法和数据结构) | [数据库](#3-数据库) | [网络](#4-网络) | [操作系统](#5-操作系统) |      [理解计算机](#6-理解计算机)      | [前端/小程序](#7-前端小程序) | [移动端](8-移动端) | [后端技术栈](9-后端技术栈) | [大数据](#10-大数据) | [设计和编码](#11-设计和编码) |  [软件工程](#12-软件工程)  |  [工具](13-工具)  |  [区块链](14-区块链)  |  [机器学习](15-机器学习)  |  [后记](#后记)  |
 
 
 
-### JavaWeb
+## 1. 编程语言
 
 
 
 
 
-### 框架系列
-
-[小白科普：Java EE vs J2EE vs Jakarta EE](https://mp.weixin.qq.com/s/kshjUv3kKfiArIn8MQO3rQ)
+## 2. 算法与数据结构
 
 
 
 
 
-### 分布式/高并发/高性能/多线程等
-
-[分布式、高并发、多线程的区别](./Java/分布式、高并发、多线程的区别.md)
-
-[漫谈何时从单体架构迁移到微服务？](https://mp.weixin.qq.com/s/DuvQ5uWNnBkupXP3cxJfgQ)
+## 3. 数据库
 
 
 
 
-### 优质博主/客（Java后端方向）
 
-博主：
+## 4. 网络
+
+GitBook：[《图解HTTP》读书笔记](https://ttop5.gitbooks.io/illustration-http/content/)
+
+
+
+
+
+## 5. 操作系统
+
+
+
+
+
+## 6. 理解计算机
+
+
+
+
+
+## 7. 前端/小程序
+
+
+
+
+
+## 8. 移动端
+
+
+
+
+
+## 9. 后端技术栈
+
+### Web
+
+
+
+### 框架篇
+
+- [小白科普：Java EE vs J2EE vs Jakarta EE](https://mp.weixin.qq.com/s/kshjUv3kKfiArIn8MQO3rQ)
+
+
+
+### 分布式/高并发/高性能
+
+- [分布式、高并发、多线程的区别](./Java/分布式、高并发、多线程的区别.md)
+- [漫谈何时从单体架构迁移到微服务？](https://mp.weixin.qq.com/s/DuvQ5uWNnBkupXP3cxJfgQ)
+
+## 10. 大数据
+
+
+
+## 11. 设计和编码
+
+
+
+## 12. 软件工程
+
+
+
+## 13. 工具
+
+- [IntelliJ IDEA + GitHub(git) 详细图解 如何实现项目的版本控制和管理（on win 7 64 bit）](https://blog.csdn.net/qq_27093465/article/details/52847300)
+
+## 14. 区块链
+
+
+
+## 15. 机器学习
+
+
+
+## 后记
+
+###优质博主/客
+
+*（1）博主*
 
 - [HollisChuang's Blog-Java干货集散地](http://www.hollischuang.com/)
 
-博客：
+*（2）博客*
 
 - 
 
-
-
-### GitHub优质仓库（Java相关）
+### 优质仓库
 
 下面列举些 Java 后端技术栈相关仓库，非常棒：
 
@@ -110,26 +172,6 @@
 - [apachecn/thinking-in-java-zh](https://github.com/apachecn/thinking-in-java-zh)
 
   > Java 编程思想  https://www.gitbook.com/book/wizardforcel/thinking-in-java/details
-
-
-
-## 三、计算机网络
-
-GitBook：[《图解HTTP》读书笔记](https://ttop5.gitbooks.io/illustration-http/content/)
-
-
-
-## 四、版本控制
-
-- [IntelliJ IDEA + GitHub(git) 详细图解 如何实现项目的版本控制和管理（on win 7 64 bit）](https://blog.csdn.net/qq_27093465/article/details/52847300)
-
-
-
-## 五、IT职位及待遇
-
-[IT职位及待遇](./About_Job/IT职位及待遇.md)
-
-
 
 <div align="right">
     <a href="#To-Full-Stack-Developer">回到顶部</a>
