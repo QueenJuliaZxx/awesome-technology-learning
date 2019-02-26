@@ -1,6 +1,8 @@
 # 技术学习之路
 
-:expressionless: *程序猿是怎样炼成的？*
+:expressionless: 程序猿是怎样炼成的？
+
+<img src="./images/awesome-technology-learning.png" style="max-width:100%;">
 
 |       :coffee:        |            :game_die:             |     :floppy_disk:     | :globe_with_meridians: |      :curry:       | :computer: |     :art:     |     :iphone:     | :spider_web: |      :cloud:      |    :bulb:     | :building_construction: | :wrench: | :herb: | :slot_machine: | :yellow_heart: |
 | :-------------------: | :-------------------------------: | :---------------: | :-----------: | :-------------------: | :--------------------: | :-----------: | :---------------: | :-----------: | :---------------------: | ----------------------- | :---------------------: | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
@@ -170,6 +172,12 @@ GitBook：[《图解HTTP》读书笔记](https://ttop5.gitbooks.io/illustration-
 - [apachecn/thinking-in-java-zh](https://github.com/apachecn/thinking-in-java-zh)
 
   > Java 编程思想  https://www.gitbook.com/book/wizardforcel/thinking-in-java/details
+
+
+
+## Logo
+
+Power by [freelogodesign](https://www.freelogodesign.org/).
 
 <div align="right">
     <a href="#技术学习之路">回到顶部</a>
